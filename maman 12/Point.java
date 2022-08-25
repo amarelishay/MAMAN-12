@@ -2,7 +2,7 @@
 /**
  * ex 1 Point class
  * This class Represents a point on the cartesian axis system
- * @author Elishay ID 318840394
+ * @author Elishay Amar
  * @2021
  */
 public class Point
